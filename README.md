@@ -1,10 +1,12 @@
 # Environmental Psychology Measurements & Experimental Paradigms Database
 
-
-
 ## Introduction
 
 Welcome to the **Environmental Psychology Measurements & Experimental Paradigms Database**. This repository serves as a comprehensive resource platform for researchers and practitioners in environmental psychology. It collects and organizes various measurement scales and experimental paradigms through direct external links. The primary language of this repository is English.
+
+Want to **submit** a paradigm or scale? Please visit the links below:<br>
+[Google Form](https://forms.gle/nSPfpUibeMLgHqsv8)<br>
+[Credamo](https://www.credamo.com/s/V7Bfmm/ )
 
 ## Measurement Scales
 
