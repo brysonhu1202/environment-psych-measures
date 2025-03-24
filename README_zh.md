@@ -11,9 +11,9 @@
 
 下表列出了与环境心理学相关的各类测量量表。
 
-| 量表名称    | 分类            | 描述                                                           | 参考文献                                                   | 跳转链接                                         |
+| 量表名称    | 分类            | 验证国家                                                           | 参考文献                                                   | 维度                                         |
 |-------------|-----------------|----------------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------|
-| **量表A**   | 情绪调节        | 用于测量个体在不同环境下的情绪调节能力。                         | [Smith et al., 2020](https://doi.org/xx.xxxx/xxxxxx)         | [查看详情](https://example.com/scaleA)           |
+| **19-Item Environmental Knowledge Test**   | 环境知识 | UK(346) | [Player et al., 2023](https://doi.org/10.1016/j.heliyon.2023.e17862)         | System (S) <br> Action (A) <br> Effectiveness (E)           |
 | **量表B**   | 行为评价        | 评估个体对环境刺激的行为反应。                                   | [Johnson & Lee, 2018](https://doi.org/xx.xxxx/xxxxxx)         | [查看详情](https://example.com/scaleB)           |
 
 ## 实验范式
@@ -22,8 +22,9 @@
 
 | 实验范式名称 | 分类           | 描述                                                           | 参考文献                                                   | 跳转链接                                         |
 |--------------|----------------|----------------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------|
-| **范式A**    | 行为观察       | 用于观察参与者在特定环境下的行为模式。                           | [Davis et al., 2019](https://doi.org/xx.xxxx/xxxxxx)         | [查看详情](https://example.com/paradigmA)        |
-| **范式B**    | 环境认知       | 探讨个体对环境信息加工及决策过程的实验设计。                       | [Miller, 2017](https://doi.org/xx.xxxx/xxxxxx)              | [查看详情](https://example.com/paradigmB)        |
+| **WEBT**    | 行为观察       | 用于观察参与者在特定环境下的行为模式。                           | [Davis et al., 2019](https://doi.org/xx.xxxx/xxxxxx)         | [查看详情](https://example.com/paradigmA)        |
+| **PEBT**    | 环境认知       | 探讨个体对环境信息加工及决策过程的实验设计。                       | [Miller, 2017](https://doi.org/xx.xxxx/xxxxxx)              | [查看详情](https://example.com/paradigmB)        |
+| **CET**    | 环境认知       | 探讨个体对环境信息加工及决策过程的实验设计。                       | [Miller, 2017](https://doi.org/xx.xxxx/xxxxxx)              | [查看详情](https://example.com/paradigmB)        |
 
 
 
