@@ -14,7 +14,7 @@ Below is a table listing various measurement scales related to environmental psy
 
 | Scale| Category| Validation| Reference|Dimension|Citation|
 |-|-|-|-|-|-|
-| **19-Item Environmental Knowledge Test**   | Environmental Knowledge | U.K.(346); 19-Item | [Player et al., 2023](https://doi.org/10.1016/j.heliyon.2023.e17862)| System (S) <br> Action (A) <br> Effectiveness (E)| 4|
+| **19-Item Environmental Knowledge Test**   | Environmental Knowledge | U.K.(346); 19-Item | [Player et al., 2023](https://doi.org/10.1016/j.heliyon.2023.e17862)| System <br> Action <br> Effectiveness| 4|
 | **Pro-environmental Behavior Scale**   |Environmental Behavior| U.S.(278); 19-Item| [Markle, 2013](https://doi.org/10.1007/s10745-013-9614-8)|Conservation <br> Environmental citizenship <br> Food <br> Transportation |343|
 
 ## Experimental Paradigms
