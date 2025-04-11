@@ -12,20 +12,21 @@ Want to **submit** a paradigm or scale? Please visit the links below:<br>
 
 Below is a table listing various measurement scales related to environmental psychology.
 
-| Scale| Category| Validation| Reference|Dimension|Citation|
+| Scale| Category| Validation| Reference |Dimension|Citation|Language|
 |-|-|-|-|-|-|
-| **19-Item Environmental Knowledge Test**   | Environmental Knowledge | U.K.(346); 19-Item | [Player et al., 2023](https://doi.org/10.1016/j.heliyon.2023.e17862)| System <br> Action <br> Effectiveness| 4|
-| **Pro-environmental Behavior Scale**   |Environmental Behavior| U.S.(278); 19-Item| [Markle, 2013](https://doi.org/10.1007/s10745-013-9614-8)|Conservation <br> Environmental citizenship <br> Food <br> Transportation |343|
+| **19-Item Environmental Knowledge Test**   | Environmental Knowledge | U.K.(346); 19-Item | [Player et al., 2023](https://doi.org/10.1016/j.heliyon.2023.e17862)| System <br> Action <br> Effectiveness| 4| German <br> English|
+| **Pro-environmental Behavior Scale**   |Environmental Behavior| U.S.(278); 19-Item| [Markle, 2013](https://doi.org/10.1007/s10745-013-9614-8)|Conservation <br> Environmental citizenship <br> Food <br> Transportation |343|English|
+| **Environmental Cynicism Scale**   |Environmental Attitude| U.S.(321); 6-Item| [Semenescu et al., 2025](https://doi.org/10.1016/j.jenvp.2025.102588)|Single |0| English|
 
 ## Experimental Paradigms
 
 Below is a table listing various experimental paradigms used in environmental psychology.
 
-| Paradigm| Category| Validation| Reference |Platform|Citation|
+| Paradigm| Category| Validation| Reference |Platform|Citation|Language|
 |-|-|-|-|-|-|
-| **PEBT**    | Environmental Behavior|Belgium(120)|[Lange et al., 2018](https://doi.org/10.1016/j.jenvp.2018.02.007)| [Offline(OpenSesame)](https://osf.io/tcnza/files/osfstorage)|189|
-| **WEBT**    | Environmental Behavior| Belgium(209)| [Lange & Dewitte, 2019](https://doi.org/10.3758/s13428-021-01617-2)|[Qualtrics](https://osf.io/gpzy3/)|93|
-| **CET**    | Environmental Behavior | Switzerland(2,343)| [Berger & Wyss, 2021](https://doi.org/10.1016/j.jenvp.2021.101613)| [Qualtrics](https://osf.io/qjxbu)|109|
+| **PEBT**    | Environmental Behavior|Belgium(120)|[Lange et al., 2018](https://doi.org/10.1016/j.jenvp.2018.02.007)| [Offline(OpenSesame)](https://osf.io/tcnza/files/osfstorage)|189||English|
+| **WEBT**    | Environmental Behavior| Belgium(209)| [Lange & Dewitte, 2019](https://doi.org/10.3758/s13428-021-01617-2)|[Qualtrics](https://osf.io/gpzy3/)|93||English|
+| **CET**    | Environmental Behavior | Switzerland(2,343)| [Berger & Wyss, 2021](https://doi.org/10.1016/j.jenvp.2021.101613)| [Qualtrics](https://osf.io/qjxbu)|109||English|
 
 
 
