@@ -14,7 +14,7 @@ Below is a table listing various measurement scales related to environmental psy
 
 | Scale| Category| Validation| Reference |Dimension|Citation|Language|
 |-|-|-|-|-|-|-|
-| **19-Item Environmental Knowledge Test**   | Environmental Knowledge | U.K.(346); 19-Item | [Player et al., 2023](https://doi.org/10.1016/j.heliyon.2023.e17862)| System <br> Action <br> Effectiveness| 4| German <br> English|
+| **19-Item Environmental Knowledge Test**   | Environmental Knowledge | U.K.(346); 19-Item | [Player et al., 2023](https://doi.org/10.1016/j.heliyon.2023.e17862)| System <br> Action <br> Effectiveness| 4|English|
 | **Pro-environmental Behavior Scale**   |Environmental Behavior| U.S.(278); 19-Item| [Markle, 2013](https://doi.org/10.1007/s10745-013-9614-8)|Conservation <br> Environmental citizenship <br> Food <br> Transportation |343|English|
 | **Environmental Cynicism Scale**   |Environmental Attitude| U.S.(321); 6-Item| [Semenescu et al., 2025](https://doi.org/10.1016/j.jenvp.2025.102588)|Single |0| English|
 | **New Ecological Paradigm Scale**   |Environmental Attitude| U.S.(676); 15-Item| [Dunlap et al., 2000](https://doi.org/10.1111/0022-4537.00176)|The reality of limits to growth <br> Antianthropocentrism<br> The fragility of nature’s balance<br> Rejection of exemptionalism<br> The possibility of an ecocrisis|8588| English|
