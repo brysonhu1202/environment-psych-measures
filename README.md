@@ -21,6 +21,7 @@ Below is a table listing various measurement scales related to environmental psy
 | **Environmental Attitudes Inventory**   |Environmental Attitude| International(468); 12-Item| [Milfont & Duckitt, 2010](https://doi.org/10.1016/j.jenvp.2009.09.001)|Single|1461| English|
 | **Environmental Action Scale**   |Environmental Behavior| International(281); 18-Item| [Alisat & Riemer, 2015](https://doi.org/10.1016/j.jenvp.2015.05.006)|Participatory action <br> Leadership action|280| English|
 | **Personal Pro-Environmental Behavior Scale**   |Environmental Behavior| Germany(6,837); 8-Item (Private Domain)| [Kleespies et al., 2024](https://doi.org/10.1080/15366367.2023.2246113)|Energy conservation <br>Consumer behavior<br>Information <br>Control component |2| English|
+| **Social Pro-Environmental Behaviors Scale**   |Environmental Behavior| Italy(943); 5-Item (Public Domain; Adolescent)| [Donati et al., 2025](https://doi.org/10.1016/j.jenvp.2025.102562)|Single|0| English  <br>Italian|
 
 ## Experimental Paradigms
 
